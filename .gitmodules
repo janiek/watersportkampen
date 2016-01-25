@@ -1,0 +1,6 @@
+[submodule "profiles/culturefeed_kickstart/modules/culturefeed"]
+	path = profiles/culturefeed_kickstart/modules/culturefeed
+	url = https://github.com/cultuurnet/culturefeed/
+[submodule "profiles/culturefeed_kickstart/themes/culturefeed_bootstrap"]
+	path = profiles/culturefeed_kickstart/themes/culturefeed_bootstrap
+	url = https://github.com/cultuurnet/culturefeed_bootstrap

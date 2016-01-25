@@ -1,0 +1,13 @@
+{
+  "require": {
+    "composer/composer": "~1.0",
+    "cultuurnet/culturefeed-php": "~1.5",
+    "cultuurnet/search": "~1.2",
+    "cultuurnet/cdb": "~2.1",
+    "leafo/lessphp": ">=0.3.7",
+    "mobiledetect/mobiledetectlib": "2.8.17",
+    "cultuurnet/calendar-summary": "~1.0"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}
